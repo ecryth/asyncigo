@@ -1,4 +1,4 @@
-module github.com/arvidfm/asyngio
+module github.com/ecryth/asyncigo
 
 go 1.22
 
