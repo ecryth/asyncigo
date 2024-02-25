@@ -4,8 +4,9 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"github.com/ecryth/asyncigo"
 	"time"
+
+	"github.com/ecryth/asyncigo"
 )
 
 func ExampleSpawnTask() {
